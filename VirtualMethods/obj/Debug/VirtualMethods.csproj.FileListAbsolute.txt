@@ -1,0 +1,6 @@
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\VirtualMethods\bin\Debug\VirtualMethods.exe
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\VirtualMethods\bin\Debug\VirtualMethods.pdb
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\VirtualMethods\obj\Debug\VirtualMethods.exe
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\VirtualMethods\obj\Debug\VirtualMethods.pdb

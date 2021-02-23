@@ -1,0 +1,7 @@
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.pdb
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.csprojAssemblyReference.cache
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.exe
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.pdb

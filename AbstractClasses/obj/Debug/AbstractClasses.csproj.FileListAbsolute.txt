@@ -1,0 +1,6 @@
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\AbstractClasses\obj\Debug\AbstractClasses.pdb

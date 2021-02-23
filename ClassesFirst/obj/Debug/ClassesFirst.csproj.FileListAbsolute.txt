@@ -1,0 +1,7 @@
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\ClassesFirst\bin\Debug\ClassesFirst.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\ClassesFirst\bin\Debug\ClassesFirst.exe
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\ClassesFirst\bin\Debug\ClassesFirst.pdb
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\ClassesFirst\obj\Debug\ClassesFirst.csprojAssemblyReference.cache
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\ClassesFirst\obj\Debug\ClassesFirst.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\ClassesFirst\obj\Debug\ClassesFirst.exe
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\ClassesFirst\obj\Debug\ClassesFirst.pdb

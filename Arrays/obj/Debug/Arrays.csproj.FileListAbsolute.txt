@@ -1,0 +1,6 @@
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\Arrays\bin\Debug\Arrays.exe
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\Arrays\obj\Debug\Arrays.exe
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\Arrays\obj\Debug\Arrays.pdb

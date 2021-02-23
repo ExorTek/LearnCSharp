@@ -1,0 +1,6 @@
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\Inheritance\obj\Debug\Inheritance.pdb
