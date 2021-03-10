@@ -1,0 +1,7 @@
+C:\Users\Memet\Desktop\LearnCSharp\OurOwnErrorClass\bin\Debug\OurOwnErrorClass.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\OurOwnErrorClass\bin\Debug\OurOwnErrorClass.exe
+C:\Users\Memet\Desktop\LearnCSharp\OurOwnErrorClass\bin\Debug\OurOwnErrorClass.pdb
+C:\Users\Memet\Desktop\LearnCSharp\OurOwnErrorClass\obj\Debug\OurOwnErrorClass.csprojAssemblyReference.cache
+C:\Users\Memet\Desktop\LearnCSharp\OurOwnErrorClass\obj\Debug\OurOwnErrorClass.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\OurOwnErrorClass\obj\Debug\OurOwnErrorClass.exe
+C:\Users\Memet\Desktop\LearnCSharp\OurOwnErrorClass\obj\Debug\OurOwnErrorClass.pdb

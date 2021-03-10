@@ -1,0 +1,6 @@
+C:\Users\Memet\Desktop\LearnCSharp\MetodsParamKeywords\obj\Debug\MethodsParamsKeywords.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\MetodsParamKeywords\obj\Debug\MetodsParamKeywords.exe
+C:\Users\Memet\Desktop\LearnCSharp\MetodsParamKeywords\obj\Debug\MetodsParamKeywords.pdb
+C:\Users\Memet\Desktop\LearnCSharp\MetodsParamKeywords\bin\Debug\MetodsParamKeywords.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\MetodsParamKeywords\bin\Debug\MetodsParamKeywords.exe
+C:\Users\Memet\Desktop\LearnCSharp\MetodsParamKeywords\bin\Debug\MetodsParamKeywords.pdb

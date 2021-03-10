@@ -1,0 +1,7 @@
+C:\Users\Memet\Desktop\LearnCSharp\ChallengeMetods\obj\Debug\ChallengeMethods.csprojAssemblyReference.cache
+C:\Users\Memet\Desktop\LearnCSharp\ChallengeMetods\obj\Debug\ChallengeMethods.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\ChallengeMetods\obj\Debug\ChallengeMetods.exe
+C:\Users\Memet\Desktop\LearnCSharp\ChallengeMetods\obj\Debug\ChallengeMetods.pdb
+C:\Users\Memet\Desktop\LearnCSharp\ChallengeMetods\bin\Debug\ChallengeMetods.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\ChallengeMetods\bin\Debug\ChallengeMetods.exe
+C:\Users\Memet\Desktop\LearnCSharp\ChallengeMetods\bin\Debug\ChallengeMetods.pdb

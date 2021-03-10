@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MultidimensionalArrays
 {
@@ -10,6 +6,10 @@ namespace MultidimensionalArrays
     {
         static void Main(string[] args)
         {
+            //Console Text Color
+            Console.ForegroundColor = ConsoleColor.Green;
+            //Console Text Color
+
             string[,] regions = new string[4, 3]
             {
                 {"December" ,"January","February"},

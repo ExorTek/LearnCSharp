@@ -8,3 +8,13 @@ C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\RecapDemoOne\obj\Debug\RecapDemoO
 C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\RecapDemoOne\obj\Debug\RecapDemoOne.csproj.CoreCompileInputs.cache
 C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\RecapDemoOne\obj\Debug\RecapDemoOne.exe
 C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\RecapDemoOne\obj\Debug\RecapDemoOne.pdb
+C:\Users\Memet\Desktop\LearnCSharp\RecapDemoOne\bin\Debug\RecapDemoOne.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\RecapDemoOne\bin\Debug\RecapDemoOne.exe
+C:\Users\Memet\Desktop\LearnCSharp\RecapDemoOne\bin\Debug\RecapDemoOne.pdb
+C:\Users\Memet\Desktop\LearnCSharp\RecapDemoOne\obj\Debug\RecapDemoOne.csprojAssemblyReference.cache
+C:\Users\Memet\Desktop\LearnCSharp\RecapDemoOne\obj\Debug\RecapDemoOne.Form1.resources
+C:\Users\Memet\Desktop\LearnCSharp\RecapDemoOne\obj\Debug\RecapDemoOne.Properties.Resources.resources
+C:\Users\Memet\Desktop\LearnCSharp\RecapDemoOne\obj\Debug\RecapDemoOne.csproj.GenerateResource.cache
+C:\Users\Memet\Desktop\LearnCSharp\RecapDemoOne\obj\Debug\RecapDemoOne.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\RecapDemoOne\obj\Debug\RecapDemoOne.exe
+C:\Users\Memet\Desktop\LearnCSharp\RecapDemoOne\obj\Debug\RecapDemoOne.pdb

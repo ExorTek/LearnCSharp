@@ -5,3 +5,10 @@ C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\Interfaces\obj\Debug\Interfaces.c
 C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\Interfaces\obj\Debug\Interfaces.exe
 C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\Interfaces\obj\Debug\Interfaces.pdb
 C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Memet\Desktop\LearnCSharp\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Memet\Desktop\LearnCSharp\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Memet\Desktop\LearnCSharp\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Memet\Desktop\LearnCSharp\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Memet\Desktop\LearnCSharp\Interfaces\bin\Debug\Interfaces.pdb

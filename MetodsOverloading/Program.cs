@@ -1,15 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace MetodsOverloading
+namespace MethodsOverloading
 {
     class Program
     {
         static void Main(string[] args)
         {
+            //Console Text Color
+            Console.ForegroundColor = ConsoleColor.Green;
+            //Console Text Color
+
             Console.WriteLine(" --> " + Multiply(2, 4));
             Console.WriteLine(" Overload --> " + Multiply(2, 4,3));
             Console.ReadLine();

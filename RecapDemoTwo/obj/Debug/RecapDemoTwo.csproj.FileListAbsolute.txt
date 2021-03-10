@@ -1,0 +1,7 @@
+C:\Users\Memet\Desktop\LearnCSharp\RecapDemoTwo\bin\Debug\RecapDemoTwo.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\RecapDemoTwo\bin\Debug\RecapDemoTwo.exe
+C:\Users\Memet\Desktop\LearnCSharp\RecapDemoTwo\bin\Debug\RecapDemoTwo.pdb
+C:\Users\Memet\Desktop\LearnCSharp\RecapDemoTwo\obj\Debug\RecapDemoTwo.csprojAssemblyReference.cache
+C:\Users\Memet\Desktop\LearnCSharp\RecapDemoTwo\obj\Debug\RecapDemoTwo.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\RecapDemoTwo\obj\Debug\RecapDemoTwo.exe
+C:\Users\Memet\Desktop\LearnCSharp\RecapDemoTwo\obj\Debug\RecapDemoTwo.pdb

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ClassesFirst
 {
@@ -10,6 +6,10 @@ namespace ClassesFirst
     {
         static void Main(string[] args)
         {
+            //Console Text Color
+            Console.ForegroundColor = ConsoleColor.Green;
+            //Console Text Color
+
             CustomerManager customerManager = new CustomerManager();
             customerManager.Add();
             customerManager.Updated();

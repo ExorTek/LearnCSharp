@@ -1,0 +1,7 @@
+C:\Users\Memet\Desktop\LearnCSharp\Metods\bin\Debug\Metods.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\Metods\bin\Debug\Metods.exe
+C:\Users\Memet\Desktop\LearnCSharp\Metods\bin\Debug\Metods.pdb
+C:\Users\Memet\Desktop\LearnCSharp\Metods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\Memet\Desktop\LearnCSharp\Metods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\Metods\obj\Debug\Metods.exe
+C:\Users\Memet\Desktop\LearnCSharp\Metods\obj\Debug\Metods.pdb

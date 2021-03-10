@@ -1,0 +1,7 @@
+C:\Users\Memet\Desktop\LearnCSharp\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe
+C:\Users\Memet\Desktop\LearnCSharp\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.pdb
+C:\Users\Memet\Desktop\LearnCSharp\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csprojAssemblyReference.cache
+C:\Users\Memet\Desktop\LearnCSharp\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.exe
+C:\Users\Memet\Desktop\LearnCSharp\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.pdb

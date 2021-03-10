@@ -1,0 +1,7 @@
+C:\Users\Memet\Desktop\LearnCSharp\ParameterMetods\obj\Debug\ParameterMethods.csprojAssemblyReference.cache
+C:\Users\Memet\Desktop\LearnCSharp\ParameterMetods\obj\Debug\ParameterMethods.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\ParameterMetods\obj\Debug\ParameterMetods.exe
+C:\Users\Memet\Desktop\LearnCSharp\ParameterMetods\obj\Debug\ParameterMetods.pdb
+C:\Users\Memet\Desktop\LearnCSharp\ParameterMetods\bin\Debug\ParameterMetods.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\ParameterMetods\bin\Debug\ParameterMetods.exe
+C:\Users\Memet\Desktop\LearnCSharp\ParameterMetods\bin\Debug\ParameterMetods.pdb

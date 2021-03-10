@@ -1,0 +1,7 @@
+C:\Users\Memet\Desktop\LearnCSharp\Dictionary_\bin\Debug\Dictionary_.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\Dictionary_\bin\Debug\Dictionary_.exe
+C:\Users\Memet\Desktop\LearnCSharp\Dictionary_\bin\Debug\Dictionary_.pdb
+C:\Users\Memet\Desktop\LearnCSharp\Dictionary_\obj\Debug\Dictionary_.csprojAssemblyReference.cache
+C:\Users\Memet\Desktop\LearnCSharp\Dictionary_\obj\Debug\Dictionary_.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\Dictionary_\obj\Debug\Dictionary_.exe
+C:\Users\Memet\Desktop\LearnCSharp\Dictionary_\obj\Debug\Dictionary_.pdb

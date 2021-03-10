@@ -1,0 +1,6 @@
+C:\Users\Memet\Desktop\LearnCSharp\Collections\bin\Debug\Collections.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\Collections\bin\Debug\Collections.exe
+C:\Users\Memet\Desktop\LearnCSharp\Collections\bin\Debug\Collections.pdb
+C:\Users\Memet\Desktop\LearnCSharp\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\Collections\obj\Debug\Collections.exe
+C:\Users\Memet\Desktop\LearnCSharp\Collections\obj\Debug\Collections.pdb

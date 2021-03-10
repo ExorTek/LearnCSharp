@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+using System;
 
 namespace VirtualMethods
 {
@@ -10,6 +7,10 @@ namespace VirtualMethods
     {
         static void Main(string[] args)
         {
+            //Console Text Color
+            Console.ForegroundColor = ConsoleColor.Green;
+            //Console Text Color
+
             SqlServer sqlServer = new SqlServer();
             sqlServer.Add();
             sqlServer.Delete();

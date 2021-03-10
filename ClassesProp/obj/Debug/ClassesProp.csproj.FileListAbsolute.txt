@@ -4,3 +4,10 @@ C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\ClassesProp\bin\Debug\ClassesProp
 C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\ClassesProp\obj\Debug\ClassesProp.csproj.CoreCompileInputs.cache
 C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\ClassesProp\obj\Debug\ClassesProp.exe
 C:\Users\Memet\Desktop\LearnCSharp\LearnCSharp\ClassesProp\obj\Debug\ClassesProp.pdb
+C:\Users\Memet\Desktop\LearnCSharp\ClassesProp\obj\Debug\ClassesProp.csprojAssemblyReference.cache
+C:\Users\Memet\Desktop\LearnCSharp\ClassesProp\obj\Debug\ClassesProp.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\ClassesProp\obj\Debug\ClassesProp.exe
+C:\Users\Memet\Desktop\LearnCSharp\ClassesProp\obj\Debug\ClassesProp.pdb
+C:\Users\Memet\Desktop\LearnCSharp\ClassesProp\bin\Debug\ClassesProp.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\ClassesProp\bin\Debug\ClassesProp.exe
+C:\Users\Memet\Desktop\LearnCSharp\ClassesProp\bin\Debug\ClassesProp.pdb

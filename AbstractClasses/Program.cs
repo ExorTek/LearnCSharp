@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AbstractClasses
 {
@@ -10,6 +6,10 @@ namespace AbstractClasses
     {
         static void Main(string[] args)
         {
+            //Console Text Color
+            Console.ForegroundColor = ConsoleColor.Green;
+            //Console Text Color
+
             Database sqlServerDatabase = new SqlServer();
             sqlServerDatabase.Add();
             sqlServerDatabase.Delete();

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Arrays
 {
@@ -10,6 +6,10 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
+            //Console Text Color
+            Console.ForegroundColor = ConsoleColor.Green;
+            //Console Text Color
+
             string[] students = new[] {"Tom","Jack","Anna"};
             foreach (var student in students)
             {
