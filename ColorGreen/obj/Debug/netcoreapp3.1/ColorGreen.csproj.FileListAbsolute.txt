@@ -1,9 +1,0 @@
-C:\Users\Memet\Desktop\LearnCSharp\ColorGreen\bin\Debug\netcoreapp3.1\ColorGreen.deps.json
-C:\Users\Memet\Desktop\LearnCSharp\ColorGreen\bin\Debug\netcoreapp3.1\ColorGreen.dll
-C:\Users\Memet\Desktop\LearnCSharp\ColorGreen\bin\Debug\netcoreapp3.1\ColorGreen.pdb
-C:\Users\Memet\Desktop\LearnCSharp\ColorGreen\obj\Debug\netcoreapp3.1\ColorGreen.csprojAssemblyReference.cache
-C:\Users\Memet\Desktop\LearnCSharp\ColorGreen\obj\Debug\netcoreapp3.1\ColorGreen.AssemblyInfoInputs.cache
-C:\Users\Memet\Desktop\LearnCSharp\ColorGreen\obj\Debug\netcoreapp3.1\ColorGreen.AssemblyInfo.cs
-C:\Users\Memet\Desktop\LearnCSharp\ColorGreen\obj\Debug\netcoreapp3.1\ColorGreen.csproj.CoreCompileInputs.cache
-C:\Users\Memet\Desktop\LearnCSharp\ColorGreen\obj\Debug\netcoreapp3.1\ColorGreen.dll
-C:\Users\Memet\Desktop\LearnCSharp\ColorGreen\obj\Debug\netcoreapp3.1\ColorGreen.pdb

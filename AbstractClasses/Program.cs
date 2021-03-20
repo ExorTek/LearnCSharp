@@ -3,7 +3,7 @@
 namespace AbstractClasses
 {
     class Program
-    {
+    {//ExorTek(Mehmet Demirel)
         static void Main(string[] args)
         {
             Database sqlServerDatabase = new SqlServer();
