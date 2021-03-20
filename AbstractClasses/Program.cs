@@ -6,10 +6,6 @@ namespace AbstractClasses
     {
         static void Main(string[] args)
         {
-            //Console Text Color
-            Console.ForegroundColor = ConsoleColor.Green;
-            //Console Text Color
-
             Database sqlServerDatabase = new SqlServer();
             sqlServerDatabase.Add();
             sqlServerDatabase.Delete();

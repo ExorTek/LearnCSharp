@@ -6,10 +6,7 @@ namespace ClassesProp
     {
         static void Main(string[] args)
         {
-            //Console Text Color
-            Console.ForegroundColor = ConsoleColor.Green;
-            //Console Text Color
-
+            
             Customer customer = new Customer();
             customer.Id = 1;
             customer.FirstName = "Mehmet";

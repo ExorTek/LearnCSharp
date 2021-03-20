@@ -33,7 +33,7 @@ namespace OurOwnErrorClass
             List<string> student = new List<string> { "Mehmet", "Yağmur", "Derin" };
             if (!student.Contains("Ahmet"))
             {
-                throw new RecordNotFoundException("Record Not Found!");
+                throw new RecordNotFoundException("Record Not Found !");
             }
             else
             {

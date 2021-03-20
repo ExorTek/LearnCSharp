@@ -1,0 +1,7 @@
+C:\Users\Memet\Desktop\LearnCSharp\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\Generics\bin\Debug\Generics.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\Generics\bin\Debug\Generics.exe
+C:\Users\Memet\Desktop\LearnCSharp\Generics\bin\Debug\Generics.pdb
+C:\Users\Memet\Desktop\LearnCSharp\Generics\obj\Debug\Generics.exe
+C:\Users\Memet\Desktop\LearnCSharp\Generics\obj\Debug\Generics.pdb
+C:\Users\Memet\Desktop\LearnCSharp\Generics\obj\Debug\Generics.csprojAssemblyReference.cache

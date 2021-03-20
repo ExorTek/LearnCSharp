@@ -13,7 +13,7 @@ namespace Exceptions
             try
             {
                 string[] students = new string[3] {"Mehmet", "Yağmur", "Derin"};
-                students[3] = "Ahmet";
+                students[3] = "Nur";
             }
             catch (IndexOutOfRangeException exception)//if the exception type is known
             {

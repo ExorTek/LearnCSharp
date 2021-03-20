@@ -7,9 +7,7 @@ namespace VirtualMethods
     {
         static void Main(string[] args)
         {
-            //Console Text Color
-            Console.ForegroundColor = ConsoleColor.Green;
-            //Console Text Color
+         
 
             SqlServer sqlServer = new SqlServer();
             sqlServer.Add();

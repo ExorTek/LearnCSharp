@@ -7,9 +7,7 @@ namespace GenericCollections
     {
         static void Main(string[] args)
         {
-            //Console Text Color
-            Console.ForegroundColor = ConsoleColor.Green;
-            //Console Text Color
+            
 
             List<string> cities = new List<string>();
             cities.Add("Ankara");

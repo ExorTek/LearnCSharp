@@ -6,9 +6,7 @@ namespace RecapDemoTwo
     {
         static void Main(string[] args)
         {
-            //Console Text Color
-            Console.ForegroundColor = ConsoleColor.Green;
-            //Console Text Color
+           
 
             CustomerManager customerManager = new CustomerManager();
             customerManager.Logger = new DatabaseLogger();

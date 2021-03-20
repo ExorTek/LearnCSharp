@@ -38,15 +38,15 @@ namespace AdoNetDemo
             this.tbxStockAmount = new System.Windows.Forms.TextBox();
             this.gbxAdd = new System.Windows.Forms.GroupBox();
             this.btnAdd = new System.Windows.Forms.Button();
+            this.btnRemove = new System.Windows.Forms.Button();
             this.gbxUpdate = new System.Windows.Forms.GroupBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.btnUpdate = new System.Windows.Forms.Button();
+            this.tbxStockUpdate = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.tbxUnitUpdate = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.button2 = new System.Windows.Forms.Button();
+            this.tbxNameUpdate = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgwProducts)).BeginInit();
             this.gbxAdd.SuspendLayout();
             this.gbxUpdate.SuspendLayout();
@@ -138,38 +138,47 @@ namespace AdoNetDemo
             this.btnAdd.UseVisualStyleBackColor = true;
             this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
+            // btnRemove
+            // 
+            this.btnRemove.Location = new System.Drawing.Point(562, 281);
+            this.btnRemove.Name = "btnRemove";
+            this.btnRemove.Size = new System.Drawing.Size(125, 40);
+            this.btnRemove.TabIndex = 11;
+            this.btnRemove.Text = "Remove";
+            this.btnRemove.UseVisualStyleBackColor = true;
+            // 
             // gbxUpdate
             // 
-            this.gbxUpdate.Controls.Add(this.button1);
-            this.gbxUpdate.Controls.Add(this.textBox1);
+            this.gbxUpdate.Controls.Add(this.btnUpdate);
+            this.gbxUpdate.Controls.Add(this.tbxStockUpdate);
             this.gbxUpdate.Controls.Add(this.label4);
-            this.gbxUpdate.Controls.Add(this.textBox2);
+            this.gbxUpdate.Controls.Add(this.tbxUnitUpdate);
             this.gbxUpdate.Controls.Add(this.label5);
             this.gbxUpdate.Controls.Add(this.label6);
-            this.gbxUpdate.Controls.Add(this.textBox3);
-            this.gbxUpdate.Location = new System.Drawing.Point(294, 219);
+            this.gbxUpdate.Controls.Add(this.tbxNameUpdate);
+            this.gbxUpdate.Location = new System.Drawing.Point(293, 223);
             this.gbxUpdate.Name = "gbxUpdate";
             this.gbxUpdate.Size = new System.Drawing.Size(252, 156);
-            this.gbxUpdate.TabIndex = 4;
+            this.gbxUpdate.TabIndex = 10;
             this.gbxUpdate.TabStop = false;
             this.gbxUpdate.Text = "Update a product";
             // 
-            // button1
+            // btnUpdate
             // 
-            this.button1.Location = new System.Drawing.Point(135, 124);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 10;
-            this.button1.Text = "Update";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btnUpdate.Location = new System.Drawing.Point(135, 124);
+            this.btnUpdate.Name = "btnUpdate";
+            this.btnUpdate.Size = new System.Drawing.Size(75, 23);
+            this.btnUpdate.TabIndex = 10;
+            this.btnUpdate.Text = "Update";
+            this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
-            // textBox1
+            // tbxStockUpdate
             // 
-            this.textBox1.Location = new System.Drawing.Point(121, 86);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 22);
-            this.textBox1.TabIndex = 7;
+            this.tbxStockUpdate.Location = new System.Drawing.Point(121, 86);
+            this.tbxStockUpdate.Name = "tbxStockUpdate";
+            this.tbxStockUpdate.Size = new System.Drawing.Size(100, 22);
+            this.tbxStockUpdate.TabIndex = 7;
             // 
             // label4
             // 
@@ -180,12 +189,12 @@ namespace AdoNetDemo
             this.label4.TabIndex = 4;
             this.label4.Text = "Name :";
             // 
-            // textBox2
+            // tbxUnitUpdate
             // 
-            this.textBox2.Location = new System.Drawing.Point(121, 58);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 22);
-            this.textBox2.TabIndex = 8;
+            this.tbxUnitUpdate.Location = new System.Drawing.Point(121, 58);
+            this.tbxUnitUpdate.Name = "tbxUnitUpdate";
+            this.tbxUnitUpdate.Size = new System.Drawing.Size(100, 22);
+            this.tbxUnitUpdate.TabIndex = 8;
             // 
             // label5
             // 
@@ -205,31 +214,21 @@ namespace AdoNetDemo
             this.label6.TabIndex = 6;
             this.label6.Text = "Stock Amount :";
             // 
-            // textBox3
+            // tbxNameUpdate
             // 
-            this.textBox3.Location = new System.Drawing.Point(121, 30);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 22);
-            this.textBox3.TabIndex = 9;
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(563, 277);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(125, 40);
-            this.button2.TabIndex = 5;
-            this.button2.Text = "Remove";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.tbxNameUpdate.Location = new System.Drawing.Point(121, 30);
+            this.tbxNameUpdate.Name = "tbxNameUpdate";
+            this.tbxNameUpdate.Size = new System.Drawing.Size(100, 22);
+            this.tbxNameUpdate.TabIndex = 9;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(831, 391);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.gbxUpdate);
+            this.Controls.Add(this.btnRemove);
             this.Controls.Add(this.gbxAdd);
+            this.Controls.Add(this.gbxUpdate);
             this.Controls.Add(this.dgwProducts);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -254,15 +253,15 @@ namespace AdoNetDemo
         private System.Windows.Forms.TextBox tbxStockAmount;
         private System.Windows.Forms.GroupBox gbxAdd;
         private System.Windows.Forms.Button btnAdd;
+        private System.Windows.Forms.Button btnRemove;
         private System.Windows.Forms.GroupBox gbxUpdate;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Button btnUpdate;
+        private System.Windows.Forms.TextBox tbxStockUpdate;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox tbxUnitUpdate;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.TextBox tbxNameUpdate;
     }
 }
 

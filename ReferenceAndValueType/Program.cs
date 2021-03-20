@@ -7,10 +7,7 @@ namespace ReferenceAndValueType
     {
         static void Main(string[] args)
         {
-            //Console Text Color
-            Console.ForegroundColor = ConsoleColor.Green;
-            //Console Text Color
-
+            
             int numberOne = 10;
             int numberTwo = 20;
             numberTwo = numberOne;

@@ -11,10 +11,8 @@ namespace AdoNetDemo
 
         private void ConnectionControl()
         {
-            if (_connection.State == ConnectionState.Closed)
-            {
-                _connection.Open();
-            }
+            if (_connection.State != ConnectionState.Closed) return;
+            _connection.Open();
         }
 
         public List<Product> GettAll()

@@ -6,10 +6,7 @@ namespace Collections
     {
         static void Main(string[] args)
         {
-            //Console Text Color
-            Console.ForegroundColor = ConsoleColor.Green;
-            //Console Text Color
-
+           
             ArrayList cities = new ArrayList();
             cities.Add("Adana");
             cities.Add("Ankara");

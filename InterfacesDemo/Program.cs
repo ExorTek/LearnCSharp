@@ -6,9 +6,7 @@ namespace InterfacesDemo
     {
         static void Main(string[] args)
         {
-            //Console Text Color
-            Console.ForegroundColor = ConsoleColor.Green;
-            //Console Text Color
+           
 
             IWorker[] workers = new IWorker[3]
             {

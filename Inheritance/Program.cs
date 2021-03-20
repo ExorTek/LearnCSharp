@@ -6,10 +6,7 @@ namespace Inheritance
     {
         static void Main(string[] args)
         {
-            //Console Text Color
-            Console.ForegroundColor = ConsoleColor.Green;
-            //Console Text Color
-
+           
             Person[] persons = new Person[]
             {
                 new Customer {

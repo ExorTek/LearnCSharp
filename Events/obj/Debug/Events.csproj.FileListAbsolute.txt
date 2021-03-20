@@ -1,0 +1,7 @@
+C:\Users\Memet\Desktop\LearnCSharp\Events\bin\Debug\Events.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\Events\bin\Debug\Events.exe
+C:\Users\Memet\Desktop\LearnCSharp\Events\bin\Debug\Events.pdb
+C:\Users\Memet\Desktop\LearnCSharp\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\Memet\Desktop\LearnCSharp\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\Events\obj\Debug\Events.exe
+C:\Users\Memet\Desktop\LearnCSharp\Events\obj\Debug\Events.pdb

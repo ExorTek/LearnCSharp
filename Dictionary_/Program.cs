@@ -17,7 +17,7 @@ namespace Dictionary_
 
             Console.WriteLine(" " + dictionary["Book"]);
             Console.WriteLine();
-            //C# is case sensitive
+            //C# is case sensitive 
             //Console.WriteLine(dictionary["book"]); //never work, throws an error
 
             foreach (var item in dictionary)

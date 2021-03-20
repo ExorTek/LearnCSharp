@@ -1,0 +1,6 @@
+C:\Users\Memet\Desktop\LearnCSharp\Func_\bin\Debug\Func_.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\Func_\bin\Debug\Func_.exe
+C:\Users\Memet\Desktop\LearnCSharp\Func_\bin\Debug\Func_.pdb
+C:\Users\Memet\Desktop\LearnCSharp\Func_\obj\Debug\Func_.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\Func_\obj\Debug\Func_.exe
+C:\Users\Memet\Desktop\LearnCSharp\Func_\obj\Debug\Func_.pdb

@@ -6,9 +6,6 @@ namespace Constructors
     {
         static void Main(string[] args)
         {
-            //Console Text Color
-            Console.ForegroundColor = ConsoleColor.Green;
-            //Console Text Color
 
             //Console.WriteLine("Please enter a number : ");
             //int number = Convert.ToInt32(Console.ReadLine());

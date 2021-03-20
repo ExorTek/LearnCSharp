@@ -1,0 +1,7 @@
+C:\Users\Memet\Desktop\LearnCSharp\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\Reflection\bin\Debug\Reflection.exe
+C:\Users\Memet\Desktop\LearnCSharp\Reflection\bin\Debug\Reflection.pdb
+C:\Users\Memet\Desktop\LearnCSharp\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+C:\Users\Memet\Desktop\LearnCSharp\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\Reflection\obj\Debug\Reflection.exe
+C:\Users\Memet\Desktop\LearnCSharp\Reflection\obj\Debug\Reflection.pdb

@@ -6,9 +6,7 @@ namespace MethodsOverloading
     {
         static void Main(string[] args)
         {
-            //Console Text Color
-            Console.ForegroundColor = ConsoleColor.Green;
-            //Console Text Color
+            
 
             Console.WriteLine(" --> " + Multiply(2, 4));
             Console.WriteLine(" Overload --> " + Multiply(2, 4,3));

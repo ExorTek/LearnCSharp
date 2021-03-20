@@ -1,0 +1,7 @@
+C:\Users\Memet\Desktop\LearnCSharp\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Memet\Desktop\LearnCSharp\Delegates\bin\Debug\Delegates.exe
+C:\Users\Memet\Desktop\LearnCSharp\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Memet\Desktop\LearnCSharp\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\Memet\Desktop\LearnCSharp\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Memet\Desktop\LearnCSharp\Delegates\obj\Debug\Delegates.exe
+C:\Users\Memet\Desktop\LearnCSharp\Delegates\obj\Debug\Delegates.pdb

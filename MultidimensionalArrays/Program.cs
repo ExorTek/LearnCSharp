@@ -6,9 +6,7 @@ namespace MultidimensionalArrays
     {
         static void Main(string[] args)
         {
-            //Console Text Color
-            Console.ForegroundColor = ConsoleColor.Green;
-            //Console Text Color
+           
 
             string[,] regions = new string[4, 3]
             {

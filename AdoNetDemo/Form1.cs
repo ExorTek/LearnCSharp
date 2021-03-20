@@ -37,24 +37,12 @@ namespace AdoNetDemo
         private void dgwProducts_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             //MessageBox.Show("Test");
-            textBox3.Text = dgwProducts.CurrentRow.Cells[1].Value.ToString();
-            textBox2.Text = dgwProducts.CurrentRow.Cells[2].Value.ToString();
-            textBox1.Text = dgwProducts.CurrentRow.Cells[3].Value.ToString();
+            tbxNameUpdate.Text = dgwProducts.CurrentRow.Cells[1].Value.ToString();
+            tbxUnitUpdate.Text = dgwProducts.CurrentRow.Cells[2].Value.ToString();
+            tbxStockUpdate.Text = dgwProducts.CurrentRow.Cells[3].Value.ToString();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Product product = new Product
-            {
-                Id = Convert.ToInt32(dgwProducts.CurrentRow.Cells[0].Value),
-                Name = textBox3.Text,
-                UnitPrice = Convert.ToDecimal(textBox2.Text),
-                StockAmount = Convert.ToInt32(textBox1.Text)
-            };
-            _productDal.Update(product);
-            LoadProducts();
-            MessageBox.Show("Product Update");
-        }
+      
 
         private void button2_Click(object sender, EventArgs e)
         {
@@ -64,5 +52,20 @@ namespace AdoNetDemo
             LoadProducts();
             MessageBox.Show("Product Deleted");
         }
+
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+            Product product = new Product
+            {
+                Id = Convert.ToInt32(dgwProducts.CurrentRow.Cells[0].Value),
+                Name = tbxNameUpdate.Text,
+                UnitPrice = Convert.ToDecimal(tbxUnitUpdate.Text),
+                StockAmount = Convert.ToInt32(tbxStockUpdate.Text)
+            };
+            _productDal.Update(product);
+            LoadProducts();
+            MessageBox.Show("Product Update");
+        }
+
     }
 }
