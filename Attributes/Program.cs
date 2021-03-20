@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Attributes
 {
     class Program
-    {
+    {//ExorTek(Mehmet Demirel)
         static void Main(string[] args)
         {
             Customer customer = new Customer { Id = 1, Age = 32, LastName = "Demirel" };

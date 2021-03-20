@@ -9,7 +9,7 @@ namespace Dictionary_
     class Program
     {
         static void Main(string[] args)
-        {
+        {//ExorTek(Mehmet Demirel)
             Dictionary<string, string> dictionary = new Dictionary<string, string>();
             dictionary.Add("Book", "Kitap");
             dictionary.Add("Mouse", "Fare");

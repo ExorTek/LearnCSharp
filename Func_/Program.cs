@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Func_
 {
     class Program
-    {
+    {//ExorTek(Mehmet Demirel)
         static void Main(string[] args)
         {
             Func<int, int, int> add = Sum;

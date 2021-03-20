@@ -5,8 +5,8 @@ namespace MultidimensionalArrays
     class Program
     {
         static void Main(string[] args)
-        {
-           
+        {//ExorTek(Mehmet Demirel)
+
 
             string[,] regions = new string[4, 3]
             {

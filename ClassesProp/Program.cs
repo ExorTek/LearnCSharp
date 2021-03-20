@@ -6,7 +6,7 @@ namespace ClassesProp
     {
         static void Main(string[] args)
         {
-            
+            //ExorTek(Mehmet Demirel)
             Customer customer = new Customer();
             customer.Id = 1;
             customer.FirstName = "Mehmet";

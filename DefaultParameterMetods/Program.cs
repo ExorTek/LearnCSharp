@@ -5,9 +5,7 @@ namespace DefaultParameterMethods
     class Program
     {
         static void Main(string[] args)
-        {
-            
-
+        {//ExorTek(Mehmet Demirel)
             Console.WriteLine(" --> " + Add());
             Console.ReadLine();
         }

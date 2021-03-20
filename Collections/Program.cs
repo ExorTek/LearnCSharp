@@ -6,7 +6,7 @@ namespace Collections
     {
         static void Main(string[] args)
         {
-           
+            //ExorTek(Mehmet Demirel)
             ArrayList cities = new ArrayList();
             cities.Add("Adana");
             cities.Add("Ankara");

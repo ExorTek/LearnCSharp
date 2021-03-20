@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace OurOwnErrorClass
 {
     class Program
-    {
+    {//ExorTek(Mehmet Demirel)
         static void Main(string[] args)
         {
             try

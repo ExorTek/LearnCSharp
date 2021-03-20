@@ -7,7 +7,7 @@ using System.Windows.Forms;
 namespace EntityFrameworkDemo
 {
     static class Program
-    {
+    {//ExorTek(Mehmet Demirel)
         /// <summary>
         /// The main entry point for the application.
         /// </summary>

@@ -4,7 +4,7 @@ using System;
 namespace VirtualMethods
 {
     class Program
-    {
+    {//ExorTek(Mehmet Demirel)
         static void Main(string[] args)
         {
          

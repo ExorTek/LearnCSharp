@@ -6,7 +6,7 @@ namespace ClassesFirst
     {
         static void Main(string[] args)
         {
-            
+            //ExorTek(Mehmet Demirel)
 
             CustomerManager customerManager = new CustomerManager();
             customerManager.Add();

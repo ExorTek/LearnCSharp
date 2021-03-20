@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Reflection
 {
     class Program
-    {
+    {//ExorTek(Mehmet Demirel)
         static void Main(string[] args)
         {
             //FourOperations fourOperations = new FourOperations(5, 4);

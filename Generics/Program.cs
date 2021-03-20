@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace Generics
 {
     class Program
-    {
+    {//ExorTek(Mehmet Demirel)
         static void Main(string[] args)
         {
             Utilities utilities = new Utilities();

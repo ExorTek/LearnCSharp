@@ -5,8 +5,8 @@ namespace Interfaces
     class Program
     {
         static void Main(string[] args)
-        {
-            
+        {//ExorTek(Mehmet Demirel)
+
             //InterfacesIntro();
 
             //InterfacePolymorphism();
